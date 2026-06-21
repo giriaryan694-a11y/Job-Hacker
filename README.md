@@ -6,7 +6,7 @@
 ![Flask](https://img.shields.io/badge/flask-2.0+-red)
 ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA-NIM-purple)
 
-**Job-Hacker** is a Flask-based web application that uses NVIDIA NIM (NVIDIA Inference Microservices) to evaluate resumes for an AI pentester position. The application extracts text from uploaded resumes (PDF, DOCX, TXT, or images) and uses an LLM to provide an AI-driven hiring decision, with a special focus on practical skills over formal degrees.
+**Job-Hacker** is a Flask-based web application that uses NVIDIA NIM (NVIDIA Inference Microservices) to evaluate resumes for an AI pentester position. The application extracts text from uploaded resumes (PDF, DOCX, TXT, or images) and uses an LLM to provide an AI-driven hiring decision.
 
 > **⚠️ Educational Purpose Only**: This tool is designed as a demonstration of AI-powered resume evaluation and should not be used for actual hiring decisions.
 
