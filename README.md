@@ -294,6 +294,23 @@ This tool is for **educational and demonstration purposes only**. It should not 
 - The open-source community for all the amazing libraries
 
 ---
+## Demo :
+**Normal CV**
+
+https://github.com/user-attachments/assets/03bf77ac-6a8a-40cc-8b78-b1da52317f03
+
+Used Sample CV :
+
+<img width="461" height="1600" alt="op" src="https://github.com/user-attachments/assets/c7a3a047-20ec-4067-9a3b-59699020ed3d" />
+
+
+**CV with injection prompt**
+
+https://github.com/user-attachments/assets/41e595ef-ed18-41d8-9cca-c6d5d5bd781a
+
+used Sample CV :
+
+<img width="404" height="1600" alt="pi" src="https://github.com/user-attachments/assets/9fc3838b-454c-437f-b620-6af561ad1bf8" />
 
 
 ---
