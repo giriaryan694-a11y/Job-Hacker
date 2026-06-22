@@ -212,7 +212,7 @@ OCR Extracts Text
 Application Sends Text To LLM
    │
    │  Normal intended processing
-   │  (not LLM02 by itself)
+   │  
    ▼
 LLM Obeys Injection
    │
